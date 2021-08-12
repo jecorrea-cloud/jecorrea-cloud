@@ -27,7 +27,7 @@ I like to be open about what I learn and share my understandings with the commun
 <img align="left" alt="Ruby_icon"  width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/ruby_icon_130842.png">
 
 <img align="left" alt="Rails_icon"  width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/rails_plain_logo_icon_146376.png">
-
+<br/>
 
 Github Stats 📊
 ------
