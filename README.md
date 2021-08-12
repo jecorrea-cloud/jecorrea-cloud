@@ -28,8 +28,9 @@ I like to be open about what I learn and share my understandings with the commun
 
 <img align="left" alt="Rails_icon"  width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/rails_plain_logo_icon_146376.png">
 <br/>
+<br/>
 
-Github Stats 📊
+### Github Stats 📊
 ------
 [![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jecorrea-cloud&theme=vue)](https://github.com/jecorrea-cloud/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jecorrea-cloud&layout=compact&theme=vue)](https://github.com/jecorrea-cloud/github-readme-stats)
